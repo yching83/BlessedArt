@@ -1,0 +1,201 @@
+Code,Description,Airport_Region,Airport_State_Country
+30001,"Afognak Lake, AK",Afognak Lake,AK
+30003,"Granite Mountain, AK",Granite Mountain,AK
+30004,"Lik, AK",Lik,AK
+30005,"Little Squaw, AK",Little Squaw,AK
+30006,"Kizhuyak, AK",Kizhuyak,AK
+30007,"Klawock, AK",Klawock,AK
+30008,"Elizabeth Island, AK",Elizabeth Island,AK
+30009,"Homer, AK",Homer,AK
+30010,"Hudson, NY",Hudson,NY
+30011,"Peach Springs, AZ",Peach Springs,AZ
+30012,"Blairstown, NJ",Blairstown,NJ
+30013,"Crosbyton, TX",Crosbyton,TX
+30015,"Deadmans Bay, AK",Deadmans Bay,AK
+30016,"Hallo Bay, AK",Hallo Bay,AK
+30017,"Red Lake, AK",Red Lake,AK
+30018,"Shell Lake, AK",Shell Lake,AK
+30019,"Kougarok, AK",Kougarok,AK
+30020,"Selawik, AK",Selawik,AK
+30021,"Pillar Bay, AK",Pillar Bay,AK
+30022,"Johnstone Point, AK",Johnstone Point,AK
+30023,"Tikchik Lodge, AK",Tikchik Lodge,AK
+30024,"Bell Creek, AK",Bell Creek,AK
+30025,"Cinnabar, AK",Cinnabar,AK
+30026,"Mountaintop Mine, AK",Mountaintop Mine,AK
+30027,"Whitebear, AK",Whitebear,AK
+30028,"Puviaq, AK",Puviaq,AK
+30029,"Arley Lake, AK",Arley Lake,AK
+30030,"Port Vita, AK",Port Vita,AK
+30031,"Kantishna, AK",Kantishna,AK
+30032,"Lonely, AK",Lonely,AK
+30033,"Alpine, AK",Alpine,AK
+30034,"Serpentine, AK",Serpentine,AK
+30035,"Driftwood Bay, AK",Driftwood Bay,AK
+30036,"Bradley Lake, AK",Bradley Lake,AK
+30037,"Chilkat Lake, AK",Chilkat Lake,AK
+30038,"Nugget Creek, AK",Nugget Creek,AK
+30039,"Ivotuk, AK",Ivotuk,AK
+30040,"Pogo Mines, AK",Pogo Mines,AK
+30041,"Ayakulik River, AK",Ayakulik River,AK
+30042,"Kiluda Bay, AK",Kiluda Bay,AK
+30043,"Terror Lake, AK",Terror Lake,AK
+30044,"Selief Bay, AK",Selief Bay,AK
+30047,"Laura Lake, AK",Laura Lake,AK
+30049,"Deep Bay, AK",Deep Bay,AK
+30050,"Kako, AK",Kako,AK
+30051,"Molly Creek, AK",Molly Creek,AK
+30052,"Ptarmigan Lake, AK",Ptarmigan Lake,AK
+30053,"Cape Simpson, AK",Cape Simpson,AK
+30054,"Kogru River, AK",Kogru River,AK
+30055,"Teshepkuk Lake, AK",Teshepkuk Lake,AK
+30056,"Kodiak Island, AK",Kodiak Island,AK
+30057,"Bear Creek, AK",Bear Creek,AK
+30058,"Lake Florence, AK",Lake Florence,AK
+30059,"Lake Hasselborg, AK",Lake Hasselborg,AK
+30060,"Distin Lake, AK",Distin Lake,AK
+30061,"Port Hobron, AK",Port Hobron,AK
+30062,"Mooseville Airstrip, AK",Mooseville Airstrip,AK
+30063,"Big Bay, AK",Big Bay,AK
+30064,"Wien Lake, AK",Wien Lake,AK
+30065,"Silver Salmon Creek, AK",Silver Salmon Creek,AK
+30066,"Blear Lake, AK",Blear Lake,AK
+30067,"Cannery Bay, AK",Cannery Bay,AK
+30069,"Bear Lake, AK",Bear Lake,AK
+30070,"Kodiak, AK",Kodiak,AK
+30071,"Cosna River, AK",Cosna River,AK
+30072,"Ivatuk, AK",Ivatuk,AK
+30073,"Deadhorse, AK",Deadhorse,AK
+30074,"Cape Sarichef, AK",Cape Sarichef,AK
+30075,"Taylor Mountain Mine, AK",Taylor Mountain Mine,AK
+30076,"Yukon Charley Rivvers, AK",Yukon Charley Rivvers,AK
+30078,"Karluk Portage, AK",Karluk Portage,AK
+30079,"Hope, AK",Hope,AK
+30080,"Viekoda Bay, AK",Viekoda Bay,AK
+30082,"Cold Bay, AK",Cold Bay,AK
+30083,"Village Islands, AK",Village Islands,AK
+30084,"Wide Bay, AK",Wide Bay,AK
+30085,"Chinitna Bay, AK",Chinitna Bay,AK
+30086,"McKinley Park, AK",McKinley Park,AK
+30088,"Malina Bay, AK",Malina Bay,AK
+30089,"Red Fox Bay, AK",Red Fox Bay,AK
+30090,"Shearwater, AK",Shearwater,AK
+30094,"Aglaq, AK",Aglaq,AK
+30095,"Nikiski, AK",Nikiski,AK
+30096,"Petrof Point, AK",Petrof Point,AK
+30097,"Denali, AK",Denali,AK
+30098,"Big River, AK",Big River,AK
+30100,"Carry Inlet, AK",Carry Inlet,AK
+30102,"Montague Island, AK",Montague Island,AK
+30103,"Shannon Pond, AK",Shannon Pond,AK
+30104,"Omalik Lagoon, AK",Omalik Lagoon,AK
+30105,"Omolik Lagoon, AK",Omolik Lagoon,AK
+30106,"Bradley Lake Project, AK",Bradley Lake Project,AK
+30107,"Barrow, AK",Barrow,AK
+30110,"Akulik, AK",Akulik,AK
+30111,"Deadfall, AK",Deadfall,AK
+30112,"Eagle Creek, AK",Eagle Creek,AK
+30113,"Bethel, AK",Bethel,AK
+30114,"Trading Bay, AK",Trading Bay,AK
+30116,"Kachemak Bay, AK",Kachemak Bay,AK
+30117,"Selby Lake, AK",Selby Lake,AK
+30118,"Anaa, French Polynesia",Anaa,French Polynesia
+30119,"Arrabury, Australia",Arrabury,Australia
+30120,"El Arish, Egypt",El Arish,Egypt
+30121,"Annaba, Algeria",Annaba,Algeria
+30122,"Apalachicola, FL",Apalachicola,FL
+30123,"Aachen, Germany",Aachen,Germany
+30124,"Arraias, Brazil",Arraias,Brazil
+30125,"Aalborg, Denmark",Aalborg,Denmark
+30126,"Mala Mala, South Africa",Mala Mala,South Africa
+30127,"Al Ain, United Arab Emirates",Al Ain,United Arab Emirates
+30128,"Anaco, Venezuela",Anaco,Venezuela
+30129,"Anapa, Russia",Anapa,Russia
+30130,"Aarhus, Denmark",Aarhus,Denmark
+30131,"Asau, Samoa",Asau,Samoa
+30132,"Araxa, Brazil",Araxa,Brazil
+30134,"Abadan, Iran",Abadan,Iran
+30135,"Allentown/Bethlehem/Easton, PA",Allentown/Bethlehem/Easton,PA
+30136,"Abilene, TX",Abilene,TX
+30137,"Abidjan, Cote d'Ivoire",Abidjan,Cote d'Ivoire
+30138,"Kabri Dar, Ethiopia",Kabri Dar,Ethiopia
+30139,"Ambler, AK",Ambler,AK
+30140,"Albuquerque, NM",Albuquerque,NM
+30141,"Aberdeen, SD",Aberdeen,SD
+30142,"Abu Simbel, Egypt",Abu Simbel,Egypt
+30143,"Al-Baha, Saudi Arabia",Al-Baha,Saudi Arabia
+30144,"Abuja, Nigeria",Abuja,Nigeria
+30145,"Albury, Australia",Albury,Australia
+30146,"Albany, GA",Albany,GA
+30147,"Aberdeen, United Kingdom",Aberdeen,United Kingdom
+30148,"Acapulco, Mexico",Acapulco,Mexico
+30149,"Bellaire, MI",Bellaire,MI
+30150,"Accra, Ghana",Accra,Ghana
+30151,"Arrecife, Spain",Arrecife,Spain
+30152,"Altenrhein, Switzerland",Altenrhein,Switzerland
+30153,"Alderney, United Kingdom",Alderney,United Kingdom
+30154,"Nantucket, MA",Nantucket,MA
+30155,"Waco, TX",Waco,TX
+30156,"Achutupo, Panama",Achutupo,Panama
+30157,"Eureka/Arcata, CA",Eureka/Arcata,CA
+30158,"Atlantic City, NJ",Atlantic City,NJ
+30159,"Adana, Turkey",Adana,Turkey
+30160,"Izmir, Turkey",Izmir,Turkey
+30161,"Andakombe, Papua New Guinea",Andakombe,Papua New Guinea
+30162,"Addis Ababa, Ethiopia",Addis Ababa,Ethiopia
+30163,"Aden, Yemen",Aden,Yemen
+30164,"Amman, Jordan",Amman,Jordan
+30165,"Adak Island, AK",Adak Island,AK
+30166,"Adelaide, Australia",Adelaide,Australia
+30167,"Ardmore, OK",Ardmore,OK
+30168,"Andes, Colombia",Andes,Colombia
+30169,"Andamooka, Australia",Andamooka,Australia
+30172,"Camp Springs, MD",Camp Springs,MD
+30173,"St Andrews, United Kingdom",St Andrews,United Kingdom
+30174,"San Andres Island, Colombia",San Andres Island,Colombia
+30176,"Aleneva, AK",Aleneva,AK
+30177,"Padang Sidempuan, Indonesia",Padang Sidempuan,Indonesia
+30178,"Abeche, Chad",Abeche,Chad
+30180,"Aioun El Atrouss, Mauritania",Aioun El Atrouss,Mauritania
+30181,"Buenos Aires, Argentina",Buenos Aires,Argentina
+30182,"Adler/Sochi, Russia",Adler/Sochi,Russia
+30183,"Aalesund, Norway",Aalesund,Norway
+30184,"Allakaket, AK",Allakaket,AK
+30185,"Alexandria, LA",Alexandria,LA
+30186,"Akureyri, Iceland",Akureyri,Iceland
+30188,"San Rafael, Argentina",San Rafael,Argentina
+30189,"Colorado Springs, CO",Colorado Springs,CO
+30190,"Nebraska, NE",Nebraska,NE
+30191,"Afton, WY",Afton,WY
+30192,"Wadesboro, NC",Wadesboro,NC
+30194,"Dallas/Fort Worth, TX",Dallas/Fort Worth,TX
+30195,"Afyon, Turkey",Afyon,Turkey
+30196,"Agadir, Morocco",Agadir,Morocco
+30197,"Augsburg, Germany",Augsburg,Germany
+30198,"Pittsburgh, PA",Pittsburgh,PA
+30199,"Agen, France",Agen,France
+30200,"Angoram, Papua New Guinea",Angoram,Papua New Guinea
+30201,"Angelholm/Helsingborg, Sweden",Angelholm/Helsingborg,Sweden
+30202,"Kagua, Papua New Guinea",Kagua,Papua New Guinea
+30203,"Wanigela, Papua New Guinea",Wanigela,Papua New Guinea
+30204,"Angoon, AK",Angoon,AK
+30205,"Malaga, Spain",Malaga,Spain
+30206,"Agrinion, Greece",Agrinion,Greece
+30207,"Agra, India",Agra,India
+30208,"Augusta, GA",Augusta,GA
+30209,"Ciudad del Este, Paraguay",Ciudad del Este,Paraguay
+30210,"Aguascalientes, Mexico",Aguascalientes,Mexico
+30211,"Acarigua, Venezuela",Acarigua,Venezuela
+30212,"Agatti Island, India",Agatti Island,India
+30214,"Abha, Saudi Arabia",Abha,Saudi Arabia
+30216,"Athens, GA",Athens,GA
+30217,"Alghero/Sassari, Italy",Alghero/Sassari,Italy
+30218,"Ahuas, Honduras",Ahuas,Honduras
+30219,"Amchitka Island, AK",Amchitka Island,AK
+30220,"Al Hoceima, Morocco",Al Hoceima,Morocco
+30221,"Alliance, NE",Alliance,NE
+30222,"Anita Bay, AK",Anita Bay,AK
+30223,"Anderson, IN",Anderson,IN
+30224,"Aiken, SC",Aiken,SC
+30225,"Wainwright, AK",Wainwright,AK
+30226,"Aitutaki, Cook Islands",Aitutaki,Cook Islands
