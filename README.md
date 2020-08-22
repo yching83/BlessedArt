@@ -8,3 +8,5 @@ Repository contains:
 3. Creating data structures in sqllite3 (Create_Tbl_sqlite3.py)
 4. Db interaction with sqlite3 (sqlite3dbinteraction.py)
 5. ERD Diagram (bureau of Transportation Statistics-erd diagram)
+6. Cleaned files used in the erd diagram and workflow
+
